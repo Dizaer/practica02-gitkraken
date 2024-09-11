@@ -1,5 +1,5 @@
 # practica02-gitkraken
-Este es la segunda de 3 practicas en gitkraken que utilizan las siguientes ramas:
+Este es la segunda de 3 practicas en gitkraken que utilizan las siguientes ramas para trabajar:
 
     -master
         -hotfix
